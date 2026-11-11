@@ -1,2 +1,0 @@
-# GSg
-GS Game 
